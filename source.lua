@@ -1,3 +1,7 @@
+if not moduleCache then
+    moduleCache = {}
+end
+
 --[[
 
     ~ New Discord Server ~
